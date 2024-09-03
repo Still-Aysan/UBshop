@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: gxs;
+    src: url("https://cdn.turing.team/qepal/fonts/vrb.woff");
+}
+
+
+.test
+{
+    background-color: seagreen;
+}
